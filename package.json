@@ -19,9 +19,9 @@
   },
   "homepage": "https://github.com/ember-cli/broccoli",
   "dependencies": {
-    "findup-sync": "^0.2.1",
+    "findup-sync": "^0.4.3",
     "handlebars": "^4.0.4",
-    "heimdalljs": "^0.2.0",
+    "heimdalljs": "^0.3.0",
     "mime": "^1.2.11",
     "promise-map-series": "^0.2.1",
     "quick-temp": "^0.1.2",
@@ -29,8 +29,8 @@
     "rsvp": "^3.0.17"
   },
   "devDependencies": {
-    "jshint": "~2.6.3",
-    "tap": "^0.4.8"
+    "jshint": "~2.9.4",
+    "tap": "^8.0.0"
   },
   "engines": {
     "node": ">= 0.10.0"
